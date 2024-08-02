@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Titanflame26
-- 👀 I’m interested in ...Coding
+- 👀 I’m interested in ...Coding python 
 - 🌱 I’m currently learning ...Computer Science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
