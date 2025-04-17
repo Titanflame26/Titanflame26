@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Titanflame26
-- 👀 I’m interested in ...Coding python 
-- 🌱 I’m currently learning ...Computer Science
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @Titanflame26 a.k.a Bharadwaj.
+- 👀 I’m interested in coding python and java.
+- 🌱 I’m currently learning Devops tools.
+- 💞️ I’m looking to collaborate on open source projects involving kubernetes and other deployment practices.
+- 📫 connect to me via mail-1rn22cs104.o.bharadwaj@gmail.com
 
 <!---
 Titanflame26/Titanflame26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
