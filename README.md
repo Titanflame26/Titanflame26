@@ -1,7 +1,7 @@
 # 💫 About Me:
 👋 Hi, I’m @Titanflame26 a.k.a Bharadwaj.<br>👀 I’m interested in coding python and java.<br>🌱 I’m currently learning Devops tools.<br>💞️ I’m looking to collaborate on open source projects involving kubernetes and other deployment practices.<br>📫 connect to me via mail-1rn22cs104.o.bharadwaj@gmail.com
 
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/your-username/your-repo-name&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=views&edge_flat=false)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Titanflame26/Titanflame26.git&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=views&edge_flat=false)
 
 
 <p align="center">
