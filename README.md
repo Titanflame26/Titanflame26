@@ -3,7 +3,7 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=Titanflame26&label=Profile%20views&color=0e75b6&style=flat)
 
-<!--
+
 <div align="center">
 <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
 </div>
@@ -19,11 +19,11 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Titanflame26&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Titanflame26&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
----
+
 [![](https://visitcount.itsvg.in/api?id=Titanflame26&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
---->
+
 <!---
 Titanflame26/Titanflame26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
