@@ -2,8 +2,6 @@
 👋 Hi, I’m @Titanflame26 a.k.a Bharadwaj.<br>👀 I’m interested coding in python and java.<br>🌱 I’m currently learning Devops tools.<br>💞️ I’m looking to collaborate on open source projects involving kubernetes and other deployment practices.<br>📫 connect to me via mail-1rn22cs104.o.bharadwaj@gmail.com
 
 ![Profile views](https://komarev.com/ghpvc/?username=Titanflame26&label=Profile%20views&color=0e75b6&style=flat)
-
-
 <div align="center">
 <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
 </div>
