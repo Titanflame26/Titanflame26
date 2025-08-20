@@ -10,6 +10,8 @@
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 -->
+
+
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
